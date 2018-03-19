@@ -1,0 +1,6 @@
+framework module Pods_BookRoomChatbot {
+  umbrella header "Pods-BookRoomChatbot-umbrella.h"
+
+  export *
+  module * { export * }
+}
